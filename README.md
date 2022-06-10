@@ -11,11 +11,14 @@ The purpose of this analysis is to isolate weather data for the months of June a
 ![june_temps](https://user-images.githubusercontent.com/99051640/172963761-4fb04d0c-1f9b-4ba9-9c13-990fad0fc044.png)
 ![dec_temps](https://user-images.githubusercontent.com/99051640/172963767-baa51032-dcca-46db-b914-89fd6509f0e3.png)
 
-- **Average temperature is fairly consistent in June and December** The average temperature for June is around 75 degrees and December is around 71 degrees. The maximum temperatures are 85 and 83 degrees respectively. 
+- **Average temperature is fairly consistent in June and December** 
+  The average temperature for June is around 75 degrees and December is around 71 degrees. The maximum temperatures are 85 and 83 degrees respectively. 
 
-- **The temperature values are evenly distributed** In both June and December the average temperature is almost exactly the same as the 50th percentile, or median. 
+- **The temperature values are evenly distributed** 
+  In both June and December the average temperature is almost exactly the same as the 50th percentile, or median. 
 
-- **There is a notable variance in the minimum temperatures** THe minimum temperature for December is 56 degrees which is 8 degrees colder than the minimum for June which is 64 degrees. This could mean that in December there would be days where the demand for ice cream especially may potentially drop considerably. It would be interesting to compare data for ice cream sales vs temperature. 
+- **There is a notable variance in the minimum temperatures** 
+  The minimum temperature for December is 56 degrees which is 8 degrees colder than the minimum for June which is 64 degrees. This could mean that in December there would be days where the demand for ice cream especially may potentially drop considerably. It would be interesting to compare data for ice cream sales vs temperature. 
 
 ## Summary 
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
