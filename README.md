@@ -21,7 +21,6 @@ The purpose of this analysis is to isolate weather data for the months of June a
   The minimum temperature for December is 56 degrees which is 8 degrees colder than the minimum for June which is 64 degrees. This could mean that in December there would be days where the demand for ice cream especially may potentially drop considerably. It would be interesting to compare data for ice cream sales vs temperature. 
 
 ## Summary 
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 
 With temperatures staying relatively consistent and warm throughout June and December, establishing as surf shop / ice cream stand seems a reasonable endeavor. Aside from a few colder days, most days in both months will most likely have weather warm enough for ice cream demand. 
 
